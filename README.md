@@ -1,2 +1,3 @@
 # hello-world
-test
+
+This seems like a nice place to work.
